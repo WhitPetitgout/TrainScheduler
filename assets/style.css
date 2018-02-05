@@ -1,6 +1,6 @@
 
 .jumbotron{
-    background-image: url("../images/trainfloor.jpeg");
+    background-color: saddlebrown;
 }
 
 .jumbotron h1 {
@@ -8,9 +8,9 @@
 }
 
 .fa-train{
-    color: saddlebrown;
+    color: white;
 }
 
 h5 {
-    color: red;
+    color: white;
 }
